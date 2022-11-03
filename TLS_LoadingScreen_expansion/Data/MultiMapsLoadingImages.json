@@ -1,0 +1,10 @@
+[
+    {
+        "MapName": "default",
+        "Path":
+        [
+            "TLS_LoadingScreen_expansion/TLS_LoadingScreen/Pictures/loading_screen_1_co.edds",
+            "TLS_LoadingScreen_expansion/TLS_LoadingScreen/Pictures/loading_screen_2_co.edds"
+        ]
+    }
+]
